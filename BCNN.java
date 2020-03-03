@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class BCNN
 {
-	/*public static int NhapSoNguyen(String str)
+	public static int NhapSoNguyen(String str)
     {
         int x;
         Scanner sc=new Scanner(System.in);
@@ -32,7 +32,7 @@ public class BCNN
 		}
 		
 		System.out.println("So dao nguoc la = "+S);
-	}*/
+	}
 	
 	public static void main(String[] args)
 	{	int i,j=2,k=5;
